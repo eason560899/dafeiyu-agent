@@ -1,0 +1,11 @@
+.git
+.gitignore
+.env
+.venv
+.pip-cache
+.pnpm-store
+.python-deps
+frontend/node_modules
+frontend/dist
+*.db
+*.sqlite3
