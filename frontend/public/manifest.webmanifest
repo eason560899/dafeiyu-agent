@@ -1,1 +1,9 @@
-
+{
+  "name": "大肥鱼 DaFeiYu",
+  "short_name": "大肥鱼",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111315",
+  "theme_color": "#111315",
+  "icons": [{"src":"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23e7b566'/%3E%3Cpath d='M18 21h28M18 32h20M18 43h15' stroke='%23111315' stroke-width='5' stroke-linecap='round'/%3E%3C/svg%3E","sizes":"any","type":"image/svg+xml"}]
+}
