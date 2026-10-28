@@ -1,0 +1,5 @@
+# Copy to docker-compose.override.yml to expose a different LAN port.
+services:
+  dafeiyu:
+    ports:
+      - "8420:8420"
